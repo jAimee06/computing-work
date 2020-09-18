@@ -1,8 +1,14 @@
-welcome :)
+###### Welcome :)
+## **_Hello world_ I am Jaimee Ho from Dunman High School.**
+## **My education**
+**1. Kong Hwa School**
+**2. Dunman High School**
 
-I am Jaimee Ho from Dunman High School.
+## **My hobbies**
+**- badminton**
+**-IT**
+**- photography**
 
-FEEL FREE TO READ MY STORIES!
-
-A little bit more about me ✌
+###### My stories
+# **Please feel free to read my stories and contribute to them!**
 
